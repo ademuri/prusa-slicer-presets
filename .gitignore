@@ -3,3 +3,4 @@ snapshots
 PrusaSlicer.ini
 PrusaSlicerGcodeViewer.ini
 *.bak
+physical_printer/*
